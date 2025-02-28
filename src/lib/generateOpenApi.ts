@@ -14,11 +14,7 @@ export function generateOpenApiDocument() {
 		},
 		servers: [
 			{
-				url: "https://localhost:3000",
-				description: "Development server",
-			},
-			{
-				url: "https://soundy-api.vercel.app",
+				url: "https://api.soundy.my.id",
 				description: "Production server",
 			},
 		],
