@@ -60,5 +60,3 @@ bun dev
 ```
 
 5. Access the API documentation at [http://localhost:3000/](http://localhost:3000/).
-
-You can also edit the API documentation in the `src/lib/openapi.ts` file.
