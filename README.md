@@ -13,7 +13,7 @@ A modern API for music recommendations and sound processing built with Next.js. 
 
 ## Documentations
 
-- [Click here to view the API documentation](https://soundy-api.vercel.app/)
+- [Click here to view the API documentation](https://api.soundy.my.id/)
 
 ## Getting Started
 
