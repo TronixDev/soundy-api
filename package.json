@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@asteasolutions/zod-to-openapi": "^7.3.0",
+    "@babel/parser": "^7.26.9",
+    "@babel/traverse": "^7.26.9",
+    "@babel/types": "^7.26.9",
     "@scalar/nextjs-api-reference": "^0.5.10",
     "next": "15.2.0",
     "react": "^19.0.0",
@@ -19,7 +22,9 @@
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
     "@eslint/eslintrc": "^3",
+    "@scalar/types": "^0.0.34",
     "@tailwindcss/postcss": "^4",
+    "@types/babel__traverse": "^7.20.6",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
